@@ -1,0 +1,8 @@
+.Grid{
+    display: grid; grid-template-columns: 20% 60% 20%;
+    background-color: white;
+}
+
+.InnerGrid{
+    display: grid; grid-template-columns: repeat(2,1fr);
+}

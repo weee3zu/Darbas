@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "body of a post",
+      "author": "john",
+      "isEdited": true,
+      "likes": -12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "profileName": "Johs"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "Johs",
+      "password": "das"
+    },
+    {
+      "name": "AdminUSer",
+      "password": "AdminUSer",
+      "id": 2
+    }
+  ]
+}

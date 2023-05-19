@@ -1,0 +1,9 @@
+.likeDislike-button {
+    font-size: 1rem;
+    padding: 5px 10px;
+    color:  #585858;
+}
+.likedDisliked {
+    font-weight: bold;
+    color: #1565c0;
+  }
